@@ -6,7 +6,7 @@
   - [CLI/GUI Commands to Extract Key Devices Info for Network Mapping](https://github.com/tankh-keith/1-Home-Network-Map)
 - <b>🖥️ O.S. InfoGen: Linux O.S. Information Generator</b><span style="font-size: smaller;"><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rArr; Bash Scripting | Python Scripting | Linux Shell</span></i>
   - [Bash & Python Scripting to Automate Extraction of Key Linux O.S. Information](https://github.com/tankh-keith/2.-OSInfoGen)
-- <b>🤫 StealthScan: Anonymous Network Scanner</b><span style="font-size: smaller;"><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rArr; Bash Scripting | Python Scripting | Linux Shell | FTP/SFTP Research</span></i>
+- <b>🥷 StealthScan: Anonymous Network Scanner</b><span style="font-size: smaller;"><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rArr; Bash Scripting | Python Scripting | Linux Shell | FTP/SFTP Research</span></i>
   - [Bash Scripting of a Dual-Layer Covert Scanner using Nipe, Tor, and a 2nd machine, for automated SSH login, Remote Scanning and FTP result transmission. Research Paper on FTP/SFTP.](https://github.com/tankh-keith/3.-StealthScan)
 - <b>🔓 VulnScanr: Vulnerability Mapper</b><span style="font-size: smaller;"><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rArr; Bash Scripting | Network Scanning & Vulnerability Mapping | Brute-forcing</span></i>
   - [Bash Scripting of an Automated Network Scanner and Vulnerability Mapper that Integrates Nmap, Masscan, Hydra brute-forcing and SearchSploit](https://github.com/tankh-keith/4.-VulnScanr)
