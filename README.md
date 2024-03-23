@@ -1,6 +1,6 @@
 <h1>Hi, I'm Keith Tan! <br/>
 
-<h2>👨‍💻 Keith's Cybersecurity Projects:</h2>
+<h2>👨‍💻 Check out my Cybersecurity Projects:</h2>
 
 - <b>🏠 Home Network Map</b><span style="font-size: smaller;"><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rArr; Network Mapping | Steganography</span></i>
   - [CLI/GUI Commands to Extract Key Devices Info for Network Mapping](https://github.com/tankh-keith/1-Home-Network-Map)
