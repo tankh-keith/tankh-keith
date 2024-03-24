@@ -15,8 +15,8 @@
 - <b>🔑 CipherChat: RSA-encrypted Chatroom</b><span style="font-size: smaller;"><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rArr; Python Scripting | RSA Encryption</span></i>
   - [Python Scripting of a Secure Private Chatroom for Two Users](https://github.com/tankh-keith/6.-CipherChat)
 
-
-
+<h2>📦 Check out my HackTheBox Journey:</h2>
+https://www.notion.so/Starting-Point-c1e32f60edb446d0a46b9f9e543f1250?pvs=4
 
 
 <!--
