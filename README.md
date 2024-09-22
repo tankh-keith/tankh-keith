@@ -1,6 +1,6 @@
 <h1>Hi, I'm Keith Tan! <br/>
 <h4>I believe in continuous self-improvement and actively seek new opportunities to broaden my horizons. My curiosity and proactive nature drive me to pursue answers, especially in the complex field of cybersecurity. Currently, I am seeking a permanent mid-career switch to cybersecurity, driven by my passion for safeguarding data, systems, and networks.</h4>
-<h4>To enhance my skills, I have pursued and completed a 250-hour cybersecurity vocational training program with a focus on practical experience and hands-on projects. I have also attained fundamental certifications including Google Cybersecurity, ISC2 CC, and CompTIA Security+. To further develop my skills, I intend to pursue a Master degree in Cyberscurity in 2025, and attain CISSP. I am interested in Incident Response but remain open to exploring various roles within cybersecurity and actively seek opportunities to learn and contribute positively to the industry.</h4>
+<h4>To enhance my skills, I have pursued and completed a 250-hour cybersecurity vocational training program with a focus on practical experience and hands-on projects. I have also attained fundamental certifications including Google Cybersecurity, ISC2 CC, and CompTIA Security+. To further develop my skills, I intend to pursue a Master degree in Cyberscurity in 2025, and attain CISSP. I remain open to exploring various roles within cybersecurity and actively seek opportunities to learn and contribute positively to the industry.</h4>
 
 <br>
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
